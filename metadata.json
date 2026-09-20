@@ -1,0 +1,6 @@
+{
+  "name": "Signal - Member AI Platform",
+  "description": "Humana Inpatient Admission surveillance, hotspot root cause analysis, intervention decisioning, and closed-loop tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
